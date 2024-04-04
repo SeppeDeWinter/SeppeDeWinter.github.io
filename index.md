@@ -8,9 +8,18 @@ title: "Seppe De Winter"
 
 # About me
 
-I am a PhD student at KU Leuven university. I study regulatory genomics using large scale omics data, machine learning methods and a variety of model systems (ranging from chicken 🐣 to organoids 🧫).
+✉️ _seppe.dewinter \<at\> kuleuven \<dot\> be_ ✉️
+
+✖️ Follow me on [X](https://twitter.com/seppe_winter) ✖️
+
+💼 Follow me on [LinkedIn](https://www.linkedin.com/in/seppe-de-winter-8b10a3171/) 💼
+
+---
+
+I am a PhD student at KU Leuven university, in the laboratory of [Stein Aerts](https://aertslab.org/). I study regulatory genomics using large scale omics data, machine learning methods and a variety of model systems (ranging from chicken 🐣 to organoids 🧫).
 
 Research software: [pycistarget](https://github.com/aertslab/pycistarget), [pycisTopic](https://github.com/aertslab/pycisTopic), [SCENIC+](https://github.com/aertslab/scenicplus).
+
 
 # Publications
 
